@@ -1,5 +1,5 @@
 """
-SightViewer - Viewer for World of Tanks sight files (.blk)
+SightViewer - Viewer for War Thunder sight files (.blk)
 
 A tkinter-based GUI application for browsing, previewing, and managing
 sight files. Features include thumbnail rendering, fullscreen preview,
