@@ -1,4 +1,4 @@
-# SightViewer
+# SightViewer for War Thunder
 
 Очень простое приложение для просмотра и управления файлами sight (.blk) из War Thunder.
 
@@ -38,7 +38,7 @@ python Main.py.pyw
 
 1. **Загрузите папку с файлами**
    - Нажмите кнопку "Browse..."
-   - Выберите папку с файлами .blk (например, `C:\Users\Z\Documents\My Games\WarThunder\Saves\53423873\production\UserSights\all_tanks`)
+   - Выберите папку с файлами .blk (например, `C:\Users\%userprofile%\Documents\My Games\WarThunder\Saves\53423873\production\UserSights\all_tanks`)
 
 2. **Просмотрите прицелы**
    - Приложение автоматически загрузит и отобразит все файлы .blk в виде сетки
